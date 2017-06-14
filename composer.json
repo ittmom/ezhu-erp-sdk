@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ezhu-erp-sdk\\": "src/"
+            "ezhuerpsdk\\": "src/"
         }
     },
     "minimum-stability": "dev",
