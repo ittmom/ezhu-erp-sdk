@@ -1,12 +1,6 @@
 <?php
 namespace wisderapi;
 /**
- * @Author: charm
- * @Date:   2017-06-13 09:58:11
- * @Last Modified by:   3L-CZ
- * @Last Modified time: 2017-06-13 17:50:46
- */
-/**
  * Class wisderapi
  * @package wisderapi
  * example
