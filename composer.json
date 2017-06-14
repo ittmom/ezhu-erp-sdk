@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ezhuerpsdk\\": "src/"
+            "wisderapi\\": "src/"
         }
     },
     "minimum-stability": "dev",
